@@ -131,3 +131,17 @@ rosnode ping <node_name>
 rosrun [package_name] [node_name]
 ```
 
+#### rqt_graph
+
+```bash
+# To view all active node and topics
+rosrun rqt_graph rqt_graph
+```
+
+#### rostopic
+
+```bash
+# Displays the messages laidout on a topic
+ros
+```
+
